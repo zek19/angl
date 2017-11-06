@@ -210,7 +210,7 @@
 <p><a href="https://angel.co/games-for-change">Visit our HTML tutorial</a></p>
 <p><a href="https://angel.co/fka">Visit our HTML tutorial</a></p>
 <p><a href="https://angel.co/a-a-make">Visit our HTML tutorial</a></p>
-<p><a href="https://angel.co/fashion">Visit our HTML tutorial</a></p>
+<p><a href="https://angel.co/instabug">Visit our HTML tutorial</a></p>
 <p><a href="https://angel.co/instabug">Visit our HTML tutorial</a></p>
 <p><a href="https://angel.co/crowd-cow">Visit our HTML tutorial</a></p>
 <p><a href="https://angel.co/italygourmet">Visit our HTML tutorial</a></p>
